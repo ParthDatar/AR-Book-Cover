@@ -12,7 +12,7 @@ Both of these files refer to the Title Shingeki no Kyojin, volume 1. They are th
 ## Movie Name
 While I would upload the movie with a new name, it would likely eat up too much bandwith. The movie demonstrates two Titans standing atop the front cover, with the title and the author. The book is flipped, and some statistics about the book are given, and the button is toggled to give a review. Here is what the text says for both:
 
-Primary:
+### Primary:
 Title: Shingeki no Kyojin (Attack on Titan)
 Author: Isayama Hajime
 Volumes: 33
@@ -20,7 +20,7 @@ Chapters: 139
 Pages: Approximately 45 per chapter
 Published: 2009-2021
 
-Review:
+### Review:
 In my estimate, AoT is one of the finest manga ever written, 
 and has a gripping plot which could rival any Hollywood production. 
 It centers around ideas of revenge, duty, strategy, and most importantly tragedy.
