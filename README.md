@@ -9,8 +9,8 @@ vbtn is the C# code that controls the toggling of the review text and the primar
 ## SNK1Front and SNK1Back
 Both of these files refer to the Title Shingeki no Kyojin, volume 1. They are the two target images.
 
-## Movie Name
-While I would upload the movie with a new name, it would likely eat up too much bandwith. The movie demonstrates two Titans standing atop the front cover, with the title and the author. The book is flipped, and some statistics about the book are given, and the button is toggled to give a review. Here is what the text says for both:
+## Movie MP4
+While I would upload the movie with a new name, it would likely eat up too much bandwith. The movie, which is the MP4 file, demonstrates two Titans standing atop the front cover, with the title and the author. The book is flipped, and some statistics about the book are given, and the button is toggled to give a review. Here is what the text says for both:
 
 ### Primary:
 Title: Shingeki no Kyojin (Attack on Titan)
