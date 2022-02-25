@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SNK1Back" size="0.115000 0.176108" />
+    <ImageTarget name="SNK1Front" size="0.115000 0.180548" />
+    <ImageTarget name="AOT1Back" size="0.160000 0.238926" />
+    <ImageTarget name="AOT1Front" size="0.160000 0.240000" />
+    <ImageTarget name="OnlineCommentadoreFront" size="0.132000 0.190994" />
+    <ImageTarget name="1Q84SamBackPaint" size="0.132000 0.196902" />
+    <ImageTarget name="1Q84SamFrontPaint" size="0.132000 0.204046" />
+    <ImageTarget name="IQ84Front" size="0.136200 0.209765" />
+    <ImageTarget name="NorwegianFront" size="0.132600 0.205163" />
+    <ImageTarget name="CommentadoreBack" size="0.136520 0.210090" />
+    <ImageTarget name="CommentadoreFront" size="0.136525 0.202853" />
+  </Tracking>
+</QCARConfig>
